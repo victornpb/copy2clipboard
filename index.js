@@ -2,7 +2,7 @@
  * Copy a string to clipboard
  * @param  {String} string         The string to be copied to clipboard
  * @return {Boolean}               returns a boolean correspondent to the success of the copy operation.
- * @author Victor B. www.victorborges.com
+ * @author https://github.com/victornpb/
  */
 export function copyToClipboard(string) {
   let textarea;
